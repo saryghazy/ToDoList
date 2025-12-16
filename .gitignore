@@ -1,0 +1,12 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.obj
+*.exe
+*.dll
+*.pdb
+bin/
+obj/

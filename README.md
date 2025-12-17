@@ -1,5 +1,5 @@
 # ToDoList
 # ShortestWord
 # Sql
-sql
+```sql
 SELECT *FROM studentsWHERE grade BETWEEN 90 AND 100;
